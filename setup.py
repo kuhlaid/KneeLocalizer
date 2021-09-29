@@ -9,5 +9,5 @@ setup(
     packages=find_packages(),
     include_package_data=True,
     license='LICENSE.txt',
-    long_description=open('README.md').read(),
+    long_description='knee localizer',
 )
